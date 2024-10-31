@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @technolifts
 - 👀 I’m interested in cybersecurity / ai / blockchain
-- 🌱 I’m currently learning offensive security
+- 🌱 I’m currently building things :)
 - 💞️ I’m looking to collaborate on anythging thats cutting edge
 - 📫 How to reach me on discord @123techno
 
